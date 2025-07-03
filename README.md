@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 
-- Languages: Java, C, JavaScript, Python  
+- Languages: Java, C, Python  
 - Tools: Git, Premiere Pro, After Effects, Midjourney, RunwayML, React  
 - Interests: Tech, AI, Software Engineering
 
