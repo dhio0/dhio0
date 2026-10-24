@@ -6,7 +6,7 @@
 ---
 
 ### 💻 About Me
-Passionate Computer Science student with a strong foundation in cybersecurity frameworks, risk management, and systems administration[cite: 1, 2]. Experienced in implementing security controls, conducting vulnerability assessments, and leveraging threat analysis tools. Eager to contribute technical skills to secure digital assets and build resilient software systems.
+Computer Science student at BINUS University who loves building custom security tools, exploring Linux, and breaking/securing web apps. I’m heavily active in CTF competitions (especially **Web Exploitation**) and prefer writing code to automate security tasks rather than building standard software applications.
 
 ---
 
