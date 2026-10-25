@@ -1,7 +1,7 @@
 # Hi, I'm Dhio 👋
 
 **Computer Science Student @ BINUS University** | **Cybersecurity & Software Engineering Enthusiast**[cite: 1, 2]  
-*Google Cybersecurity Professional Certificate Graduate*
+
 
 ---
 
