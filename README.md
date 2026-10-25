@@ -23,3 +23,5 @@ Computer Science student at BINUS University who loves building custom security 
 * **[webxplo](https://github.com/dhio0/webxplo)** – Automated web reconnaissance tool featuring AI-assisted vulnerability triage, tech stack fingerprinting, and security investigation workflows.
 * **[bncc-projects](https://github.com/dhio0/bncc-projects)** – Collection of Java-based software engineering and application development projects.
 
+### 🚩 CTF & Security Research
+- [ctf-challenge-authoring](link) – Self-authored Web Exploitation challenges with full solve writeups, including one contributed to CSC CTF Contest 2026.
