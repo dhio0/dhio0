@@ -24,4 +24,4 @@ Computer Science student at BINUS University who loves building custom security 
 * **[bncc-projects](https://github.com/dhio0/bncc-projects)** – Collection of Java-based software engineering and application development projects.
 
 ### 🚩 CTF & Security Research
-- [ctf-challenge-authoring](link) – Self-authored Web Exploitation challenges with full solve writeups, including one contributed to CSC CTF Contest 2026.
+* **[ctf-challenge-authoring](https://github.com/dhio0/ctf-challenge-authoring)** – Self-authored Web Exploitation challenges with full solve writeups, including one contributed to CSC CTF Contest 2026.
