@@ -21,7 +21,9 @@ Computer Science student at BINUS University who loves building custom security 
 
 ### 🚀 Featured Projects
 * **[webforensics](https://github.com/dhio0/webforensics)** – Web incident forensics tool that reconstructs how a website was compromised: starts from the suspicious file in the webroot, traces it back through the access logs to the entry point, maps the timeline to MITRE ATT&CK, and points to the vulnerable PHP line. Deterministic and offline, with Wazuh integration and an incident report in Indonesian. Evaluated against an open benchmark with ground truth.
+  
 * **[webxplo](https://github.com/dhio0/webxplo)** – Automated web reconnaissance tool featuring AI-assisted vulnerability triage, tech stack fingerprinting, and security investigation workflows.
+  
 * **[bncc-projects](https://github.com/dhio0/bncc-projects)** – Collection of Java-based software engineering and application development projects.
 
 ### 🚩 CTF & Security Research
