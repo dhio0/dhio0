@@ -12,7 +12,7 @@ Computer Science student at BINUS University who loves building custom security 
 
 ### 🛠️ Technical Skills
 * **Programming & Scripting:** Python, Java, C++, JavaScript, Bash/Shell
-* **Security & Operations:** SIEM (Google SecOps / Chronicle, Splunk), Threat Intelligence, Vulnerability Assessment, Incident Response Lifecycle
+* **Security & Operations:** SIEM (Wazuh, Splunk), Threat Intelligence, Vulnerability Assessment, Incident Response Lifecycle
 * **Frameworks & Compliance:** NIST Cybersecurity Framework (CSF), CIA Triad
 * **Networking & Protocols:** Packet Analysis (Wireshark), TCP/IP, Network Traffic Monitoring
 * **Tools & OS:** Linux, Git, GitHub, Qwiklabs
