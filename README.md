@@ -17,6 +17,8 @@ Computer Science student at BINUS University who loves building custom security 
 * **Networking & Protocols:** Packet Analysis (Wireshark), TCP/IP, Network Traffic Monitoring
 * **Tools & OS:** Linux, Git, GitHub, Qwiklabs
 
+### 🌐 Portfolio: dhio-eight.vercel.app
+
 ---
 
 ### 🚀 Featured Projects
